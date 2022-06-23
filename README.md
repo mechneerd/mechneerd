@@ -1,6 +1,6 @@
 
 
- Hey there, I'm prasanth [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ Hey there, I'm prasanth 
   
 
 <div id="header" align="center">
@@ -8,7 +8,8 @@
 </div>
 
                                             Man, who knows how to get hands dirty.
-                                        
+                                            
+   [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)                                      
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8Vrefmr1uZZa8/giphy.gif" width="300"/>
 </div>                                        
@@ -21,6 +22,8 @@
   
                                                        Learning coding
                                                        
+                                                      
+                                                  
   ---
 
 ### :technologist: About Me :
@@ -46,4 +49,4 @@ I am  Mechanical Engineer :mechanic: from india.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mechneerd&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechneerd)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
