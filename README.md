@@ -1,6 +1,6 @@
 
 
- Hey there, I'm prasanth 
+ Hey there, I'm prasanth [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) [![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
   
 
 <div id="header" align="center">
