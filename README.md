@@ -9,7 +9,7 @@
 
                                             Man, who knows how to get hands dirty.
                                             
-   [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)                                      
+                                         
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8Vrefmr1uZZa8/giphy.gif" width="300"/>
 </div>                                        
