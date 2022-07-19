@@ -31,7 +31,7 @@ I am  Mechanical Engineer :mechanic: from india.
 - :man_office_worker: As Head Customer Relationship Manager.
 - :man_mechanic: Mechanical engineer with exp. in Production ,Qulaity control and Customer relation.
 - :man_technologist: Learning to code.
-- :mailbox: How to reachme [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](
+- :mailbox: How to reachme [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prasanth-ramaraju-8662ba62
 ).
 
 
