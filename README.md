@@ -38,6 +38,7 @@ I am  Mechanical Engineer :mechanic: from india.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="Yii" **alt="Yii" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" style="max-width: 100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width: 100%;" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
