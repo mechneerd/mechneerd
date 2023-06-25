@@ -38,6 +38,7 @@ I am  Mechanical Engineer :mechanic: from india.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+   <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" style="max-width: 100%;" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="Yii" **alt="Yii" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" style="max-width: 100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width: 100%;" width="40" height="40">
@@ -45,7 +46,7 @@ I am  Mechanical Engineer :mechanic: from india.
   <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="htnl5" style="max-width: 100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css3" style="max-width: 100%;" width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" style="max-width: 100%;" width="40" height="40">
+
   
   
 
