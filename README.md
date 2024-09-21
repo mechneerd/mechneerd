@@ -39,7 +39,9 @@ I am  Mechanical Engineer :mechanic: from india.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
    <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" style="max-width: 100%;" width="40" height="40">
+  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/laravel-9305885-7694084.png?f=webp&w=256" alt="laravel" style="max-width: 100%;" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="Yii" **alt="Yii" width="40" height="40"/>
+ <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-dot-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-7-pack-logos-icons-3030285.png?f=webp&w=256" alt="vue" style="max-width: 100%;" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" style="max-width: 100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width: 100%;" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
