@@ -42,7 +42,6 @@ I am  Mechanical Engineer :mechanic: from india.
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/laravel-9305885-7694084.png?f=webp&w=256" alt="laravel" style="max-width: 100%;" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="Yii" **alt="Yii" width="40" height="40"/>
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-dot-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-7-pack-logos-icons-3030285.png?f=webp&w=256" alt="vue" style="max-width: 100%;" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" style="max-width: 100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width: 100%;" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;" width="40" height="40">
